@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import utils.session
 import os
 import sys
 
